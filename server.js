@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
-
 const faker = require('faker');
+
 const app = express();
 //const morgan = require('morgan');
 //app.get(morgan('dev));
